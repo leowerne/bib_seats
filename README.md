@@ -4,7 +4,7 @@ I want to understand the patterns in the occupation of the libary seats of my un
 ## Method
 ### Procurement of data
 #### Setup of the machine
-Since I need something to run code all day long for up to a year, I wanted to use a remote solution.I set up EC2 Linux instance on AWS.
+Since I need something to run code all day long for up to a year, I wanted to use a remote solution. I set up a EC2 Linux instance on AWS.
 I wanted to avoid Amazon because I personally dislike the company but for some reason I could not use the free tier of Oracle, Microsoft, Heroku and IBM.
 
 The system requirements for this job are almost as low as it gets and there was only one option included in the freee tier anyways: t2.micro
